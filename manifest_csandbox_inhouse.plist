@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.2/appinstall/ios/GraphicsTest.ipa</string>
+					<string>http://192.168.0.4/appinstall/ios/CSandbox_inhouse.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>C:>_</string>
+				<string>C:>Dev_</string>
 			</dict>
 		</dict>
 	</array>
